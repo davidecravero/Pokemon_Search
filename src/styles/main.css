@@ -1,0 +1,54 @@
+header {
+  background-color: black;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+header img {
+  height: 80px;
+  width: 80px;
+  padding: 10px;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+form {
+  display: flex;
+}
+
+form input {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  width: 100%;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#textInput {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-left: 1px solid red;
+  border-right: none;
+}
+
+#submitButton {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-right: 1px solid red;
+  border-left: none;
+  background: red;
+  color: white;
+  font-weight: bold;
+}
