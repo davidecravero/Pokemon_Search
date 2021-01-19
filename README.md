@@ -8,7 +8,7 @@ Here is the url you must use for that fetch request:
 https://pokeapi.co/api/v2/pokemon/
 
 # See it live 
-* https://vrjsf.csb.app/
-
+* App: https://vrjsf.csb.app/
+* Code: https://codesandbox.io/s/zealous-breeze-r3hqk
 
   <img src="./pic/Pokemon_Search.png" width="600">
