@@ -6,3 +6,6 @@ For this exercise we have a react application that takes a number. When this num
 Your task is to write the fetch request that will retrieve the pokemon and store it to state or store the error if no pokemon is found.
 Here is the url you must use for that fetch request:
 https://pokeapi.co/api/v2/pokemon/
+
+# See it live 
+* https://vrjsf.csb.app/
