@@ -11,4 +11,4 @@ https://pokeapi.co/api/v2/pokemon/
 * https://vrjsf.csb.app/
 
 
-  <img src="./pic/Pokemon_Search.png" width="800">
+  <img src="./pic/Pokemon_Search.png" width="600">
